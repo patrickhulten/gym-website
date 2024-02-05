@@ -1,6 +1,6 @@
 # Jimbo's Gym Site
 
-This is a simple gym website built for an introductory web development class.
+This is a simple gym website built for an introductory web development class using only HTML and CSS.
 
 ## Table of Contents
 
