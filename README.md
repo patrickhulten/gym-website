@@ -39,7 +39,7 @@ To install the website locally, follow these steps:
 
 ## Credits
 
-- Jimbo Duderson: Concept and content
+- Patrick Hulten: Concept and content
 - Arnold Schwarzenegger: Inspirational quote and image
 
 ## License
